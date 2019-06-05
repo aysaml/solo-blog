@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [JVM系列之java内存模型](http://www.aysaml.com/articles/2019/06/05/1559715975334.html)
 * [JVM系列之JVM内存结构](http://www.aysaml.com/articles/2019/05/29/1559110466401.html)
 * [JVM体系结构概览](http://www.aysaml.com/articles/2019/05/28/1559035515379.html)
 * [解决使用@Requestbody时报错Stream closed](http://www.aysaml.com/articles/2019/05/15/1557888345020.html)
