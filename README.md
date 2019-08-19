@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [数据库分库分表sharding系列](http://www.aysaml.com/articles/2019/08/19/1566210000036.html)
+* [多款超nice的插件让你的IDEA飞起来](http://www.aysaml.com/articles/2019/08/19/1566208316096.html)
 * [JVM系列之java内存模型](http://www.aysaml.com/articles/2019/06/05/1559715975334.html)
 * [JVM系列之JVM内存结构](http://www.aysaml.com/articles/2019/05/29/1559110466401.html)
 * [JVM体系结构概览](http://www.aysaml.com/articles/2019/05/28/1559035515379.html)
