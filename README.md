@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [sharding实现方式](http://www.aysaml.com/articles/2019/08/23/1566531987673.html)
+* [sharding的基本思想和基本切分策略](http://www.aysaml.com/articles/2019/08/22/1566464095700.html)
 * [数据库分库分表sharding系列](http://www.aysaml.com/articles/2019/08/19/1566210000036.html)
 * [多款超nice的插件让你的IDEA飞起来](http://www.aysaml.com/articles/2019/08/19/1566208316096.html)
 * [JVM系列之java内存模型](http://www.aysaml.com/articles/2019/06/05/1559715975334.html)
@@ -28,8 +30,11 @@
 * [常规Java工具，算法，加密，数据库，面试题，源代码分析，解决方案](http://www.aysaml.com/articles/2019/04/30/1556624894280.html)
 * [使用 IoT 平台简化 IoT 应用程序的开发](http://www.aysaml.com/articles/2019/04/30/1556619696349.html)
 * [为您的下一个 IoT 项目选择最佳硬件](http://www.aysaml.com/articles/2019/04/30/1556616771775.html)
-* [连接物联网中的所有事物](http://www.aysaml.com/articles/2019/04/30/1556616509606.html)
+
+### 热门
+
 * [通过 IoT 架构简化 IoT 解决方案的开发](http://www.aysaml.com/articles/2019/04/30/1556611948221.html)
+* [连接物联网中的所有事物](http://www.aysaml.com/articles/2019/04/30/1556616509606.html)
 
 
 
