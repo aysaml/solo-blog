@@ -1,9 +1,9 @@
-<p align="center"><img alt="码恋" src="https://img.hacpai.com/file/2019/05/icon-3374e543.png"></p><h2 align="center">
-码恋
+<p align="center"><img alt="码恋-JAVA-中间件-技术分享" src="https://img.hacpai.com/file/2019/05/icon-3374e543.png"></p><h2 align="center">
+码恋-JAVA-中间件-技术分享
 </h2>
 
 <h4 align="center">ALL YOUR SMILES, ALL MY LIFE.</h4>
-<p align="center"><a title="码恋" target="_blank" href="https://github.com/wangning1018/solo-blog"><img src="https://img.shields.io/github/last-commit/wangning1018/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="码恋-JAVA-中间件-技术分享" target="_blank" href="https://github.com/wangning1018/solo-blog"><img src="https://img.shields.io/github/last-commit/wangning1018/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/wangning1018/solo-blog"><img src="https://img.shields.io/github/repo-size/wangning1018/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/wangning1018/solo-blog.svg"></a></p>
