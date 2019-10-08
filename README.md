@@ -5,11 +5,12 @@
 <h4 align="center">ALL YOUR SMILES, ALL MY LIFE.</h4>
 <p align="center"><a title="码恋" target="_blank" href="https://github.com/wangning1018/solo-blog"><img src="https://img.shields.io/github/last-commit/wangning1018/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/wangning1018/solo-blog"><img src="https://img.shields.io/github/repo-size/wangning1018/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/wangning1018/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [Java 8系列之重新认识HashMap](https://aysaml.com/articles/2019/10/08/1570516580009.html)
 * [Dubbo系列笔记之XML配置文件解析流程](https://aysaml.com/articles/2019/09/18/1568797105593.html)
 * [通过Nginx代理实现https方式访问网站](https://aysaml.com/articles/2019/09/18/1568791365834.html)
 * [我在 GitHub 上的开源项目](https://aysaml.com/my-github-repos)
@@ -29,7 +30,6 @@
 * [Spring boot定时任务](https://aysaml.com/articles/2019/05/05/1557030350612.html)
 * [Swagger的使用](https://aysaml.com/articles/2019/05/05/1557027691074.html)
 * [IDEA快捷键MAC版](https://aysaml.com/articles/2019/04/30/1556626216310.html)
-* [IDEA快捷键windows版](https://aysaml.com/articles/2019/04/30/1556625807902.html)
 
 ### 热门
 
@@ -37,6 +37,7 @@
 * [使用 IoT 平台简化 IoT 应用程序的开发](https://aysaml.com/articles/2019/04/30/1556619696349.html)
 * [通过 IoT 架构简化 IoT 解决方案的开发](https://aysaml.com/articles/2019/04/30/1556611948221.html)
 * [为您的下一个 IoT 项目选择最佳硬件](https://aysaml.com/articles/2019/04/30/1556616771775.html)
+* [IDEA快捷键windows版](https://aysaml.com/articles/2019/04/30/1556625807902.html)
 * [连接物联网中的所有事物](https://aysaml.com/articles/2019/04/30/1556616509606.html)
 
 
