@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [ConcurrentHashMap锁的前世今生](https://aysaml.com/articles/2019/10/08/1570531723657.html)
 * [Java 8系列之重新认识HashMap](https://aysaml.com/articles/2019/10/08/1570516580009.html)
 * [Dubbo系列笔记之XML配置文件解析流程](https://aysaml.com/articles/2019/09/18/1568797105593.html)
 * [通过Nginx代理实现https方式访问网站](https://aysaml.com/articles/2019/09/18/1568791365834.html)
@@ -29,10 +30,10 @@
 * [随机生成32位uuid工具类](https://aysaml.com/articles/2019/05/05/1557041792956.html)
 * [Spring boot定时任务](https://aysaml.com/articles/2019/05/05/1557030350612.html)
 * [Swagger的使用](https://aysaml.com/articles/2019/05/05/1557027691074.html)
-* [IDEA快捷键MAC版](https://aysaml.com/articles/2019/04/30/1556626216310.html)
 
 ### 热门
 
+* [IDEA快捷键MAC版](https://aysaml.com/articles/2019/04/30/1556626216310.html)
 * [常规Java工具，算法，加密，数据库，面试题，源代码分析，解决方案](https://aysaml.com/articles/2019/04/30/1556624894280.html)
 * [使用 IoT 平台简化 IoT 应用程序的开发](https://aysaml.com/articles/2019/04/30/1556619696349.html)
 * [通过 IoT 架构简化 IoT 解决方案的开发](https://aysaml.com/articles/2019/04/30/1556611948221.html)
