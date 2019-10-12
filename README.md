@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [解决BeanCurrentlyInCreationException&&its raw version as part of a circular reference, but has eventually been wrapped.](https://aysaml.com/articles/2019/10/12/1570874240846.html)
 * [ConcurrentHashMap锁的前世今生](https://aysaml.com/articles/2019/10/08/1570531723657.html)
 * [Java 8系列之重新认识HashMap](https://aysaml.com/articles/2019/10/08/1570516580009.html)
 * [Dubbo系列笔记之XML配置文件解析流程](https://aysaml.com/articles/2019/09/18/1568797105593.html)
@@ -29,7 +30,6 @@
 * [Docker入门](https://aysaml.com/articles/2019/05/05/1557047898603.html)
 * [随机生成32位uuid工具类](https://aysaml.com/articles/2019/05/05/1557041792956.html)
 * [Spring boot定时任务](https://aysaml.com/articles/2019/05/05/1557030350612.html)
-* [Swagger的使用](https://aysaml.com/articles/2019/05/05/1557027691074.html)
 
 ### 热门
 
@@ -37,6 +37,7 @@
 * [常规Java工具，算法，加密，数据库，面试题，源代码分析，解决方案](https://aysaml.com/articles/2019/04/30/1556624894280.html)
 * [使用 IoT 平台简化 IoT 应用程序的开发](https://aysaml.com/articles/2019/04/30/1556619696349.html)
 * [通过 IoT 架构简化 IoT 解决方案的开发](https://aysaml.com/articles/2019/04/30/1556611948221.html)
+* [Swagger的使用](https://aysaml.com/articles/2019/05/05/1557027691074.html)
 * [为您的下一个 IoT 项目选择最佳硬件](https://aysaml.com/articles/2019/04/30/1556616771775.html)
 * [IDEA快捷键windows版](https://aysaml.com/articles/2019/04/30/1556625807902.html)
 * [连接物联网中的所有事物](https://aysaml.com/articles/2019/04/30/1556616509606.html)
