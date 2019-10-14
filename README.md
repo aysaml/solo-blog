@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [设计模式系列之工厂模式](https://aysaml.com/articles/2019/10/14/1571053845203.html)
+* [设计模式系列之单例模式](https://aysaml.com/articles/2019/10/14/1571040307396.html)
 * [解决BeanCurrentlyInCreationException&&its raw version as part of a circular reference, but has eventually been wrapped.](https://aysaml.com/articles/2019/10/12/1570874240846.html)
 * [ConcurrentHashMap锁的前世今生](https://aysaml.com/articles/2019/10/08/1570531723657.html)
 * [Java 8系列之重新认识HashMap](https://aysaml.com/articles/2019/10/08/1570516580009.html)
@@ -28,13 +30,13 @@
 * [深入了解cookie与Session](https://aysaml.com/articles/2019/05/06/1557111034305.html)
 * [java开发效率工具-Lombok的使用](https://aysaml.com/articles/2019/05/05/1557055419936.html)
 * [Docker入门](https://aysaml.com/articles/2019/05/05/1557047898603.html)
-* [随机生成32位uuid工具类](https://aysaml.com/articles/2019/05/05/1557041792956.html)
-* [Spring boot定时任务](https://aysaml.com/articles/2019/05/05/1557030350612.html)
 
 ### 热门
 
 * [IDEA快捷键MAC版](https://aysaml.com/articles/2019/04/30/1556626216310.html)
 * [常规Java工具，算法，加密，数据库，面试题，源代码分析，解决方案](https://aysaml.com/articles/2019/04/30/1556624894280.html)
+* [随机生成32位uuid工具类](https://aysaml.com/articles/2019/05/05/1557041792956.html)
+* [Spring boot定时任务](https://aysaml.com/articles/2019/05/05/1557030350612.html)
 * [使用 IoT 平台简化 IoT 应用程序的开发](https://aysaml.com/articles/2019/04/30/1556619696349.html)
 * [通过 IoT 架构简化 IoT 解决方案的开发](https://aysaml.com/articles/2019/04/30/1556611948221.html)
 * [Swagger的使用](https://aysaml.com/articles/2019/05/05/1557027691074.html)
