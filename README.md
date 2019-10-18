@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Java的SPI简介](https://aysaml.com/articles/2019/10/18/1571392382274.html)
 * [设计模式系列资料](https://aysaml.com/articles/2019/10/17/1571296056181.html)
 * [JVM系列之JVM类加载机制](https://aysaml.com/articles/2019/10/15/1571141911966.html)
 * [设计模式系列之工厂模式](https://aysaml.com/articles/2019/10/14/1571053845203.html)
@@ -29,7 +30,6 @@
 * [JVM体系结构概览](https://aysaml.com/articles/2019/05/28/1559035515379.html)
 * [解决使用@Requestbody时报错Stream closed](https://aysaml.com/articles/2019/05/15/1557888345020.html)
 * [怎么在你的网站中快速嵌入一个H5音乐播放器（教程）](https://aysaml.com/articles/2019/05/09/1557393001564.html)
-* [深入了解cookie与Session](https://aysaml.com/articles/2019/05/06/1557111034305.html)
 
 ### 热门
 
@@ -40,6 +40,7 @@
 * [随机生成32位uuid工具类](https://aysaml.com/articles/2019/05/05/1557041792956.html)
 * [Spring boot定时任务](https://aysaml.com/articles/2019/05/05/1557030350612.html)
 * [使用 IoT 平台简化 IoT 应用程序的开发](https://aysaml.com/articles/2019/04/30/1556619696349.html)
+* [深入了解cookie与Session](https://aysaml.com/articles/2019/05/06/1557111034305.html)
 * [通过 IoT 架构简化 IoT 解决方案的开发](https://aysaml.com/articles/2019/04/30/1556611948221.html)
 * [Swagger的使用](https://aysaml.com/articles/2019/05/05/1557027691074.html)
 * [为您的下一个 IoT 项目选择最佳硬件](https://aysaml.com/articles/2019/04/30/1556616771775.html)
