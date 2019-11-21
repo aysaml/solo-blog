@@ -28,7 +28,7 @@
 * [sharding的基本思想和基本切分策略](https://aysaml.com/articles/2019/08/22/1566464095700.html)
 * [数据库分库分表sharding系列](https://aysaml.com/articles/2019/08/19/1566210000036.html)
 * [多款超nice的插件让你的IDEA飞起来](https://aysaml.com/articles/2019/08/19/1566208316096.html)
-* [JVM系列之java内存模型](https://aysaml.com/articles/2019/06/05/1559715975334.html)
+* [JVM系列之Java内存模型](https://aysaml.com/articles/2019/06/05/1559715975334.html)
 * [JVM系列之JVM内存结构](https://aysaml.com/articles/2019/05/29/1559110466401.html)
 
 ### 热门
