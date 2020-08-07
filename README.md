@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [说说 Java 线程池](https://aysaml.com/articles/2020/08/03/1596440008840.html)
 * [分布式事务之补偿事务（ TCC ）](https://aysaml.com/articles/2020/06/16/1592304957424.html)
 * [分布式事务之两阶段提交（2PC）](https://aysaml.com/articles/2020/06/16/1592303735898.html)
 * [RocketMQ 分布式事务消息](https://aysaml.com/articles/2020/06/16/1592296926344.html)
@@ -29,7 +30,6 @@
 * [Java的SPI简介](https://aysaml.com/articles/2019/10/18/1571392382274.html)
 * [设计模式系列资料](https://aysaml.com/articles/2019/10/17/1571296056181.html)
 * [JVM系列之JVM类加载机制](https://aysaml.com/articles/2019/10/15/1571141911966.html)
-* [设计模式系列之工厂模式](https://aysaml.com/articles/2019/10/14/1571053845203.html)
 
 
 
