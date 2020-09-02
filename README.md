@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Java 字节码操作之 Javassist ](https://aysaml.com/articles/2020/09/01/1598950702389.html)
 * [Dubbo系列笔记之zookeeper注册中心原理](https://aysaml.com/articles/2020/08/17/1597658280603.html)
 * [说说 Java 线程池](https://aysaml.com/articles/2020/08/03/1596440008840.html)
 * [分布式事务之补偿事务（ TCC ）](https://aysaml.com/articles/2020/06/16/1592304957424.html)
@@ -29,7 +30,6 @@
 * [Service Mesh 与 Feign client 服务统一封装](https://aysaml.com/articles/2019/11/12/1573552790020.html)
 * [Java垃圾回收与JVM调优](https://aysaml.com/articles/2019/10/19/1571482787072.html)
 * [Java的SPI简介](https://aysaml.com/articles/2019/10/18/1571392382274.html)
-* [设计模式系列资料](https://aysaml.com/articles/2019/10/17/1571296056181.html)
 
 
 
