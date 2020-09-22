@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Dubbo系列笔记之服务引用过程](https://aysaml.com/articles/2020/09/08/1599558950363.html)
 * [Dubbo系列笔记之服务暴露过程](https://aysaml.com/articles/2020/09/04/1599206156889.html)
 * [Java 字节码操作之 Javassist ](https://aysaml.com/articles/2020/09/01/1598950702389.html)
 * [Dubbo系列笔记之zookeeper注册中心原理](https://aysaml.com/articles/2020/08/17/1597658280603.html)
@@ -29,7 +30,6 @@
 * [一文带你整明白Java的N种锁](https://aysaml.com/articles/2019/11/21/1433223.html)
 * [Dubbo系列笔记之项目结构](https://aysaml.com/articles/2019/11/15/1573790514430.html)
 * [Service Mesh 与 Feign client 服务统一封装](https://aysaml.com/articles/2019/11/12/1573552790020.html)
-* [Java垃圾回收与JVM调优](https://aysaml.com/articles/2019/10/19/1571482787072.html)
 
 
 
