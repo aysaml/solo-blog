@@ -10,6 +10,8 @@
 
 ### 最新
 
+* [Netty 系列笔记之内存管理](https://aysaml.com/articles/2020/11/03/1604391401499.html)
+* [Netty 系列笔记之 keepalive 与 idle 监测](https://aysaml.com/articles/2020/10/28/1603876845195.html)
 * [Netty 系列笔记之 TCP 粘包拆包与编解码](https://aysaml.com/articles/2020/10/27/1603780674945.html)
 * [Netty 系列笔记之 Reactor 模式](https://aysaml.com/articles/2020/10/23/1603444872972.html)
 * [Netty 系列笔记之 Java NIO 核心组件 Selector](https://aysaml.com/articles/2020/10/21/1603251555158.html)
@@ -28,8 +30,6 @@
 * [RocketMQ 分布式事务消息](https://aysaml.com/articles/2020/06/16/1592296926344.html)
 * [微服务架构下缓存的统一管理](https://aysaml.com/articles/2020/05/11/1589170001785.html)
 * [如何解决代码中过多的 if else ?](https://aysaml.com/articles/2020/05/08/1588928166693.html)
-* [一文理解二叉树的遍历](https://aysaml.com/articles/2020/04/29/1588154150735.html)
-* [Java 面试知识总结回顾](https://aysaml.com/interview.html)
 
 
 
