@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [Netty 系列笔记之源码分析：启动服务](https://aysaml.com/articles/2020/11/05/1604559009881.html)
 * [Netty 系列笔记之内存管理](https://aysaml.com/articles/2020/11/03/1604391401499.html)
 * [Netty 系列笔记之 keepalive 与 idle 监测](https://aysaml.com/articles/2020/10/28/1603876845195.html)
 * [Netty 系列笔记之 TCP 粘包拆包与编解码](https://aysaml.com/articles/2020/10/27/1603780674945.html)
@@ -29,7 +30,6 @@
 * [分布式事务之两阶段提交（2PC）](https://aysaml.com/articles/2020/06/16/1592303735898.html)
 * [RocketMQ 分布式事务消息](https://aysaml.com/articles/2020/06/16/1592296926344.html)
 * [微服务架构下缓存的统一管理](https://aysaml.com/articles/2020/05/11/1589170001785.html)
-* [如何解决代码中过多的 if else ?](https://aysaml.com/articles/2020/05/08/1588928166693.html)
 
 
 
