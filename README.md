@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [JVM 系列之垃圾回收器](https://aysaml.com/articles/2023/04/16/1681619975313.html)
 * [JVM 系列之垃圾回收算法](https://aysaml.com/articles/2023/04/01/1680360820659.html)
 * [Netty 系列笔记之源码分析：发送数据](https://aysaml.com/articles/2020/12/14/1607929679383.html)
 * [Netty 系列笔记之源码分析：业务处理](https://aysaml.com/articles/2020/12/10/1607584619326.html)
@@ -29,7 +30,6 @@
 * [Dubbo系列笔记之服务引用过程](https://aysaml.com/articles/2020/09/08/1599558950363.html)
 * [Dubbo系列笔记之服务暴露过程](https://aysaml.com/articles/2020/09/04/1599206156889.html)
 * [Java 字节码操作之 Javassist ](https://aysaml.com/articles/2020/09/01/1598950702389.html)
-* [Dubbo系列笔记之zookeeper注册中心原理](https://aysaml.com/articles/2020/08/17/1597658280603.html)
 
 
 
